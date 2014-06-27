@@ -1,4 +1,5 @@
-// List of Ynote Packages in JSON Format
-{
-  
-}
+// List of Ynote Packages as a JSON Array
+// String Format - "{package name},{package description},{ypk file url}"
+[
+  "AutoLoad,Package to Automatically Load YnoteScripts at startup,https://raw.githubusercontent.com/sharpcoder1/autoload-ynote/master/AutoLoad.ynotepackage"
+]
