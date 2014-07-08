@@ -1,5 +1,6 @@
 // List of Ynote Packages as a JSON Array
 // String Format - "{package name},{package description},{ypk file url}"
 [
-  "AutoLoad,Package to Automatically Load YnoteScripts at startup,https://raw.githubusercontent.com/sharpcoder1/autoload-ynote/master/AutoLoad.ynotepackage"
+  "AutoLoad,Package to Automatically Load YnoteScripts at startup,https://raw.githubusercontent.com/sharpcoder1/autoload-ynote/master/AutoLoad.ynotepackage",
+  "Solarized Theme,Solarized Theme for Ynote Classic,https://raw.githubusercontent.com/samarjeet27/ynotepackages/master/Themes/Solarized.ynotepackage"
 ]
